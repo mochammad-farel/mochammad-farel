@@ -1,6 +1,9 @@
 ## 👋 Hi, I’m @mochammad-farel
 
-Computer science students who taking wajor in artificial intelligence and an active member in one of the campus organization which is cyber security community and taking a role as coordinator of education.
+Computer science students who taking major in artificial intelligence and project enthusiast that coontains deep learning and machine learning model  
+
+
+I also an active member in one of the campus organization which is cyber security community and taking a role as coordinator of education.
 
 
 <!---
