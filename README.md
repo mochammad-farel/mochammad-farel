@@ -6,7 +6,7 @@ Computer science students who taking major in artificial intelligence and projec
 I also an active member in one of the campus organization which is cyber security community and taking a role as coordinator of education.
 
 
-##Skilss
+## Skilss
 - 🐍 Python
 - 💻 C/C++
 - 📄 HTML
