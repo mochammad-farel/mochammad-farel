@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @mochammad-farel
 
-Computer science students who taking major in artificial intelligence and project enthusiast that contains deep learning and machine learning model  
+Computer science students at BINUS University who taking major in artificial intelligence and project enthusiast that contains deep learning and machine learning model  
 
 ## Skilss
 - 🐍 Python
