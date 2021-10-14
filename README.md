@@ -5,7 +5,7 @@ Computer science students at BINUS University who taking major in artificial int
 
 
 ## Campus activity
-I also an active member in one of the campus organization in BINUS University, which is CSC, refer to cyber security community https://student-activity.binus.ac.id/csc/ and taking a role as coordinator of education in period of 2021.
+I also an active member in one of the campus organization at BINUS University, which is CSC refers to cyber security community https://student-activity.binus.ac.id/csc/ and taking a role as coordinator of education in period of 2021.
 
 My works while taking role as coodinator of education are:
 - 🏹 handle the article publications about cyber security and ethical hacking topics
