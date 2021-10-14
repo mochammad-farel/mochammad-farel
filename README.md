@@ -24,7 +24,9 @@ My works while taking role as coodinator of education are:
 
 
 ## Certification
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='udemy' height='40'>](https://www.udemy.com/certificate/UC-152af2a2-547d-45a3-bdaa-c65b4e4edeec/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='40'>](https://www.coursera.org/account/accomplishments/certificate/Z3TAXPMBRUC6)  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='udemy' height='40'>](https://www.udemy.com/certificate/UC-152af2a2-547d-45a3-bdaa-c65b4e4edeec/) Deep Learning A-Z™: Hands-On Artificial Neural Networks  
+
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='40'>](https://www.coursera.org/account/accomplishments/certificate/Z3TAXPMBRUC6) Getting Started with AWS Machine Learning
 
 ## More About Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mochammad-farel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mochammad-farel-94810b1b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mochammadfarel//)
