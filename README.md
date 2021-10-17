@@ -14,6 +14,10 @@ My works while taking role as coodinator of education are:
 - 🧩 manage cyber class for students in binus who wants to learn about ethical hacking and cyber security
 - 👩‍💻 managing mentors that teaching cyber class, mentors are refer to cyber security students in binus who active member in csc
 
+I volunteered in events that held by CSC which is:
+- 🧿 Company visit Event (speaker: Frank Rand Boatwright III, CEO of Naga Cyber Defense) as an volunteer member
+- 🏙 National Cyber Weeks (speaker: Ardi Sutedja K, Chairman and Founder of ICSF) as leader of seminar events
+
 
 
 ## Language Skills
