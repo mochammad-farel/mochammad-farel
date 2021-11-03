@@ -24,10 +24,14 @@ I volunteered in events that held by CSC which is:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-## Certification (click the symbol to see it)
-- Deep Learning A-Z™: Hands-On Artificial Neural Networks [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='udemy' height='40'>](https://www.udemy.com/certificate/UC-152af2a2-547d-45a3-bdaa-c65b4e4edeec/) 
+## Certification (click the link to see it)
+- Deep Learning A-Z™: Hands-On Artificial Neural Networks (https://www.udemy.com/certificate/UC-152af2a2-547d-45a3-bdaa-c65b4e4edeec/) 
 
-- Getting Started with AWS Machine Learning [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='40'>](https://www.coursera.org/account/accomplishments/certificate/Z3TAXPMBRUC6)
+- Getting Started with AWS Machine Learning (https://www.coursera.org/account/accomplishments/certificate/Z3TAXPMBRUC6)
+
+- Machine Learning A-Z™: Hands-On Python & R In Data Science (https://udemy-certificate.s3.amazonaws.com/pdf/UC-10a6dbb8-54a6-4e74-857b-886073d9578e.pdf)
+
+- DQLab Online Bootcamp (https://drive.google.com/file/d/1a5fTYRG7ogaGKgoGFA6yS9YYsbLdnGdG/view?usp=sharing)
 
 ## More About Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mochammad-farel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mochammad-farel-94810b1b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mochammadfarel//)
