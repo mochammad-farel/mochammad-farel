@@ -2,6 +2,17 @@
 
 Computer science students at BINUS University who taking major in artificial intelligence and project enthusiast that contains deep learning and machine learning model  
 
+## Work experience
+Data Scientist Intern at PT Telkom Indonesia, Tbk. with one year work experience
+
+My works while taking a role as Data Scientist Intern are: 
+- 📊 Collected, audit and processed raw data into datasets
+- 🖼️ Analyzed the performance of predictive models and draw conclusions about the process from the models.
+- ✈️ Deploy predictive model with Flask and FastAPI.
+- 🔤 Finetuning BERT model for optimize NER (Named Entity Recognition) task.
+- 😆 Developed sentiment detection based on tweets using XGBoost Classifier.
+- 👨‍🦱  Developed gender detection based on username and text tweets using Linear Regression and Convolutional Neural Network.
+- 📰 Developed News Magnitude Classification with Convolutional Neural Network.
 
 
 ## Campus activity
@@ -25,6 +36,8 @@ I volunteered in events that held by CSC which is:
 
 
 ## Certification (click the link to see it)
+- MAGENTA (Magang Generasi Bertalenta) BUMN Certification (https://drive.google.com/file/d/1O0hPADwxuFpWBKm7XaVC2brqzkf-Sx1q/view)
+  
 - Deep Learning A-Z™: Hands-On Artificial Neural Networks (https://www.udemy.com/certificate/UC-152af2a2-547d-45a3-bdaa-c65b4e4edeec/) 
 
 - Getting Started with AWS Machine Learning (https://www.coursera.org/account/accomplishments/certificate/Z3TAXPMBRUC6)
