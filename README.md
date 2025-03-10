@@ -7,12 +7,14 @@ Alumnus of BINUS University majoring in Artificial Intelligence and a project en
 Python Developer at PT. Teltics Media - Jakarta, Indonesia (Oct 2023 - Present)
 
 Teltics Media is a technology company engaged in developing mobile and web applications, as well as system integrators.
+
 works and projects while in Teltics:
   - 🕵️ Developed crawler engine for social media analysis (Facebook, Instagram, LinkedIn, TikTok, Twitter, Youtube).
   - 🚁 Developed crawler engine for extracting drones flight spraying data.
   - 📊 Created sales insight reports using Power BI.
   - 🔍 Developed social media username matcher using Siamese Deep Learning Model.
   - 💬 Developed sentiment and complaint analysis based on social media comments extracted from crawler engine using Logistic Regression and XGBoost.
+
 
 
 Data Scientist Intern at PT Telkom Indonesia, Tbk. - Jakarta, Indonesia (Mar 2022 - Mar 2023) 
