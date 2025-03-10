@@ -5,6 +5,7 @@ Alumnus of BINUS University majoring in Artificial Intelligence and a project en
 ## Work experience
 
 Python Developer at PT. Teltics Media - Jakarta, Indonesia (Oct 2023 - Present)
+
 Teltics Media is a technology company engaged in developing mobile and web applications, as well as system integrators.
 works and projects while in Teltics:
   - 🕵️ Developed crawler engine for social media analysis (Facebook, Instagram, LinkedIn, TikTok, Twitter, Youtube).
@@ -15,6 +16,7 @@ works and projects while in Teltics:
 
 
 Data Scientist Intern at PT Telkom Indonesia, Tbk. - Jakarta, Indonesia (Mar 2022 - Mar 2023) 
+
 My works while taking a role as Data Scientist Intern are: 
 - 📊 Collected, audit and processed raw data into datasets
 - 🖼️ Analyzed the performance of predictive models and draw conclusions about the process from the models.
