@@ -1,10 +1,20 @@
 ## 👋 Hi, I’m @mochammad-farel
 
-Computer science students at BINUS University who taking major in artificial intelligence and project enthusiast that contains deep learning and machine learning model  
+Alumnus of BINUS University majoring in Artificial Intelligence and a project enthusiast specializing in deep learning and machine learning models. 
 
 ## Work experience
-Data Scientist Intern at PT Telkom Indonesia, Tbk. with one year work experience
 
+Python Developer at PT. Teltics Media - Jakarta, Indonesia (Oct 2023 - Present)
+Teltics Media is a technology company engaged in developing mobile and web applications, as well as system integrators.
+works and projects while in Teltics:
+  - 🕵️ Developed crawler engine for social media analysis (Facebook, Instagram, LinkedIn, TikTok, Twitter, Youtube).
+  - 🚁 Developed crawler engine for extracting drones flight spraying data.
+  - 📊 Created sales insight reports using Power BI.
+  - 🔍 Developed social media username matcher using Siamese Deep Learning Model.
+  - 💬 Developed sentiment and complaint analysis based on social media comments extracted from crawler engine using Logistic Regression and XGBoost.
+
+
+Data Scientist Intern at PT Telkom Indonesia, Tbk. - Jakarta, Indonesia (Mar 2022 - Mar 2023) 
 My works while taking a role as Data Scientist Intern are: 
 - 📊 Collected, audit and processed raw data into datasets
 - 🖼️ Analyzed the performance of predictive models and draw conclusions about the process from the models.
@@ -12,7 +22,7 @@ My works while taking a role as Data Scientist Intern are:
 - 🔤 Finetuning BERT model for optimize NER (Named Entity Recognition) task.
 - 😆 Developed sentiment detection based on tweets using XGBoost Classifier.
 - 👨‍🦱  Developed gender detection based on username and text tweets using Linear Regression and Convolutional Neural Network.
-- 📰 Developed News Magnitude Classification with Convolutional Neural Network.
+- 📰 Developed News Magnitude Classification with with LSTM (Long Short Term Memory) Model.
 
 
 ## Campus activity
@@ -32,10 +42,46 @@ I volunteered in events that held by CSC which is:
 
 
 ## Language Skills
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a> 
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/>
+  </a> 
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a> 
+</p>
 
 
 ## Certification (click the link to see it)
+- International Conference of Informatics, Multimedia, Cyber, and Information System (ICIMCIS) Certification  (https://drive.google.com/file/d/1vi38AAJCbLS2lOxgrNnW1CHALmyDcTGB/view)
+
 - MAGENTA (Magang Generasi Bertalenta) BUMN Certification (https://drive.google.com/file/d/1O0hPADwxuFpWBKm7XaVC2brqzkf-Sx1q/view)
   
 - Deep Learning A-Z™: Hands-On Artificial Neural Networks (https://www.udemy.com/certificate/UC-152af2a2-547d-45a3-bdaa-c65b4e4edeec/) 
